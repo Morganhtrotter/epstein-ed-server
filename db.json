@@ -1,0 +1,406 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Safeway",
+      "image": "assets/images/safeway.png",
+      "address": "Town Ctr, 137, Corte Madera, CA 94925",
+      "city": "Corte Madera"
+    },
+    {
+      "id": 1,
+      "name": "Safeway",
+      "image": "assets/images/safewaysanrafael.png",
+      "address": "700 B St, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 2,
+      "name": "Safeway",
+      "image": "assets/images/safewaystraw.png",
+      "address": "800 Redwood Highway Frontage Rd #110, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 3,
+      "name": "Whole Foods",
+      "image": "assets/images/wholefoods.png",
+      "address": "731 E Blithedale Ave, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 4,
+      "name": "Whole Foods",
+      "image": "assets/images/wholefoodsmill.png",
+      "address": "414 Miller Ave, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 5,
+      "name": "Lucky",
+      "image": "assets/images/luckys.png",
+      "address": "570 Magnolia Ave, Larkspur, CA 94939",
+      "city": "Larkspur"
+    },
+    {
+      "id": 6,
+      "name": "Lucky",
+      "image": "assets/images/luckynovato.png",
+      "address": "1761 Grant Ave, Novato, CA 94947",
+      "city": "Novato"
+    },
+    {
+      "id": 7,
+      "name": "Mollie Stone's",
+      "image": "assets/images/mollies.png",
+      "address": "270 Bon Air Center, Greenbrae, CA 94904",
+      "city": "Greenbrae"
+    },
+    {
+      "id": 8,
+      "name": "Mollie Stone's",
+      "image": "assets/images/mollies.png",
+      "address": "100 Harbor Dr, Sausalito, CA 94965",
+      "city": "Sausalito"
+    },
+    {
+      "id": 9,
+      "name": "Trader Joe's",
+      "image": "assets/images/traderjoes.png",
+      "address": "2052 Redwood Hwy, Greenbrae, CA 94904",
+      "city": "Greenbrae"
+    },
+    {
+      "id": 10,
+      "name": "Trader Joe's",
+      "image": "assets/images/traderjoessr.png",
+      "address": "337 3rd St, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 11,
+      "name": "Woodlands",
+      "image": "assets/images/woodlandstib.png",
+      "address": "1550 Tiburon Blvd, Tiburon, CA 94920",
+      "city": "Tiburon"
+    },
+    {
+      "id": 12,
+      "name": "Woodlands",
+      "image": "assets/images/woodlands.png",
+      "address": "735 College Ave, Kentfield, CA 94904",
+      "city": "Kentfield"
+    },
+    {
+      "id": 13,
+      "name": "Sausalito Market",
+      "image": "assets/images/na.png",
+      "address": "46 Caledonia St, Sausalito, CA 94965",
+      "city": "Sausalito"
+    },
+    {
+      "id": 14,
+      "name": "Whole Foods",
+      "image": "assets/images/wholefoodssr.png",
+      "address": "340 3rd St, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 15,
+      "name": "Whole Foods",
+      "image": "assets/images/wholefoodsnovato.png",
+      "address": "790 De Long Ave, Novato, CA 94945",
+      "city": "Novato"
+    },
+    {
+      "id": 16,
+      "name": "Nugget",
+      "image": "assets/images/nugget.png",
+      "address": "1 Blackfield Dr, Tiburon, CA 94920",
+      "city": "Tiburon"
+    },
+    {
+      "id": 17,
+      "name": "Nugget",
+      "image": "assets/images/nuggetcorte.png",
+      "address": "5627 Paradise Dr, Corte Madera, CA 94925",
+      "city": "Corte Madera"
+    },
+    {
+      "id": 18,
+      "name": "Nugget",
+      "image": "assets/images/nuggetnovato.png",
+      "address": "470 Ignacio Blvd, Novato, CA 94949",
+      "city": "Novato"
+    },
+    {
+      "id": 19,
+      "name": "Safeway",
+      "image": "assets/images/safewaymill.png",
+      "address": "1 Camino Alto, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 20,
+      "name": "Safeway",
+      "image": "assets/images/safewaynovato.png",
+      "address": "838 Sir Francis Drake Blvd, San Anselmo, CA 94960",
+      "city": "San Anselmo"
+    },
+    {
+      "id": 21,
+      "name": "Andronico's",
+      "image": "assets/images/andronicos.png",
+      "address": "100 Center Blvd, San Anselmo, CA 94960",
+      "city": "San Anselmo"
+    },
+    {
+      "id": 22,
+      "name": "Safeway",
+      "image": "assets/images/safewaygallinas.png",
+      "address": "950 Las Gallinas Ave, San Rafael, CA 94903",
+      "city": "San Rafael"
+    },
+    {
+      "id": 23,
+      "name": "Safeway",
+      "image": "assets/images/safewaynov.png",
+      "address": "5720 Nave Dr, Novato, CA 94949",
+      "city": "Novato"
+    },
+    {
+      "id": 24,
+      "name": "Safeway",
+      "image": "assets/images/safewaysr.png",
+      "address": "900 Diablo Ave, Novato, CA 94947",
+      "city": "Novato"
+    },
+    {
+      "id": 25,
+      "name": "Andy's Local Market",
+      "image": "assets/images/andyslocal.png",
+      "address": "75 Loch Lomond Dr, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 26,
+      "name": "Andy's Sun Valley Market",
+      "image": "assets/images/na.png",
+      "address": "2202 Fifth Ave, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 27,
+      "name": "Andy's Local Market",
+      "image": "assets/images/andyscortemadera.png",
+      "address": "195 Tamal Vista Blvd, Corte Madera, CA 94925",
+      "city": "Corte Madera"
+    },
+    {
+      "id": 28,
+      "name": "United",
+      "image": "assets/images/unitedsr.png",
+      "address": "515 3rd St, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 29,
+      "name": "United",
+      "image": "assets/images/na.png",
+      "address": "100 Red Hill Ave, San Anselmo, CA 94960",
+      "city": "San Anselmo"
+    },
+    {
+      "id": 30,
+      "name": "Fairfax Market",
+      "image": "assets/images/fairfax.png",
+      "address": "2040 Sir Francis Drake Blvd, Fairfax, CA 94930",
+      "city": "Fairfax"
+    },
+    {
+      "id": 31,
+      "name": "Good Earth",
+      "image": "assets/images/goodearthmill.png",
+      "address": "201 Flamingo Rd, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 32,
+      "name": "Good Earth",
+      "image": "assets/images/goodearthsananselmo.png",
+      "address": "720 Center Blvd, Fairfax, CA 94930",
+      "city": "Fairfax"
+    },
+    {
+      "id": 33,
+      "name": "Mill Valley Market",
+      "image": "assets/images/millvalleymarket.png",
+      "address": "12 Corte Madera Ave, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 34,
+      "name": "Stinson Beack Market",
+      "image": "assets/images/na.png",
+      "address": "101 Calle del Mar, Stinson Beach, CA 94970",
+      "city": "Stinson Beach"
+    },
+    {
+      "id": 35,
+      "name": "Palace Market",
+      "image": "assets/images/na.png",
+      "address": "11300 CA-1, Point Reyes Station, CA 94956",
+      "city": "Point Reyes"
+    },
+    {
+      "id": 36,
+      "name": "Inverness Store",
+      "image": "assets/images/na.png",
+      "address": "12784 Sir Francis Drake Blvd, Inverness, CA 94937",
+      "city": "Inverness"
+    },
+    {
+      "id": 37,
+      "name": "Marinwood Market",
+      "image": "assets/images/marinwood.png",
+      "address": "155 Marinwood Ave #1521, San Rafael, CA 94903",
+      "city": "San Rafael"
+    },
+    {
+      "id": 38,
+      "name": "Smart & Final",
+      "image": "assets/images/smartandfinal.png",
+      "address": "935 Andersen Dr, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 39,
+      "name": "Sprouts",
+      "image": "assets/images/sprouts.png",
+      "address": "655 Irwin St Suite A, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 40,
+      "name": "Scotty's Market",
+      "image": "assets/images/scottys.png",
+      "address": "620 Manuel T Freitas Pkwy, San Rafael, CA 94903",
+      "city": "San Rafael"
+    },
+    {
+      "id": 41,
+      "name": "Cardenas Market",
+      "image": "assets/images/cardenas.png",
+      "address": "330 Bellam Blvd, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 42,
+      "name": "Grocery Outlet",
+      "image": "assets/images/groceryoutlet.png",
+      "address": "1535 S Novato Blvd, Novato, CA 94947",
+      "city": "Novato"
+    },
+    {
+      "id": 43,
+      "name": "Novato Market",
+      "image": "assets/images/novatomarket.png",
+      "address": "350 Rowland Blvd, Novato, CA 94947",
+      "city": "Novato"
+    },
+    {
+      "id": 44,
+      "name": "Harvest Market & Grocery",
+      "image": "assets/images/na.png",
+      "address": "155 San Marin Dr, Novato, CA 94945",
+      "city": "Novato"
+    },
+    {
+      "id": 45,
+      "name": "Trader Joe's",
+      "image": "assets/images/traderjoesnovato.png",
+      "address": "7514 Redwood Blvd, Novato, CA 94945",
+      "city": "Novato"
+    },
+    {
+      "id": 46,
+      "name": "Costco Wholesale",
+      "image": "assets/images/costco.png",
+      "address": "300 Vintage Way, Novato, CA 94945",
+      "city": "Novato"
+    },
+    {
+      "id": 47,
+      "name": "Walgreens",
+      "image": "assets/images/walgreens.png",
+      "address": "227 Shoreline Hwy, Mill Valley, CA 94941",
+      "city": "Mill Valley"
+    },
+    {
+      "id": 48,
+      "name": "More For Less",
+      "image": "assets/images/na.png",
+      "address": "141 Bellam Blvd, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 49,
+      "name": "Target",
+      "image": "assets/images/targetnov.png",
+      "address": "125 Shoreline Pkwy, San Rafael, CA 94901",
+      "city": "San Rafael"
+    },
+    {
+      "id": 50,
+      "name": "Target",
+      "image": "assets/images/targetnov.png",
+      "address": "180 Donahue St, Sausalito, CA 94965",
+      "city": "Sausalito"
+    },
+    {
+      "id": 51,
+      "name": "Target",
+      "image": "assets/images/targetnov.png",
+      "address": "200 Vintage Way, Novato, CA 94945",
+      "city": "Novato"
+    }
+  ],
+  "comments": [
+    
+  ],
+  "promotions": [
+
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Danielle McCauley",
+      "image": "assets/images/Danielle.png",
+      "designation": "Chief Executive Officer",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Danielle is a University of Oregon graduate currently working with a top PR firm, Hotwire Global. She hopes that by providing a platform for the community to submit honest safety reviews, that we can reduce the stress and risk associated with a trip to the store."
+    },
+    {
+      "id": 1,
+      "name": "Elliot Dean",
+      "image": "assets/images/Elliot.png",
+      "designation": "Chief Operating Officer",
+      "abbr": "COO",
+      "featured": false,
+      "description": "Elliot was born and raised in Marin before attending UCLA to pursue a degree in Statistics. Since graduation, Elliot has worked as a Clean Energy Analyst at the second largest utility in the United States, Southern California Edison. His passion for sustainability and safety work hand in hand as the wellness of ourselves and of our planet are of utmost importance during these troubling times."
+    },
+    {
+      "id": 2,
+      "name": "Morgan Trotter",
+      "image": "assets/images/morgan.png",
+      "designation": "Chief Technology Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Morgan was raised in Marin for 19 years before graduating from UCSC with a degree in Computer Science. Since then, Morgan has used his web development skills to foster an environment for us all to stay safe during these troubling times."
+    }
+  ],
+  "feedback": [
+    
+  ]
+}
